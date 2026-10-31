@@ -1,0 +1,30 @@
+# Resultados generados
+enhanced_results/
+results/
+ims/
+ims_2/
+ims_3/
+PRIMERA_VUELTA_IMG_RX_sinhphh/
+RESULTS_2/
+PRIMERA_VUELTA_IMG_RX.zip
+RESULTS_2.zip
+*.tex
+*.csv
+
+# Imágenes de entrada (datos médicos: no subir)
+data/
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+*.dcm
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
